@@ -1,0 +1,12 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_player","order":2,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"obj_wall","order":4,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"spr_tileset","order":5,"path":"sprites/spr_tileset/spr_tileset.yy",},
+    {"name":"spr_wall","order":3,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"TileSet2","order":7,"path":"tilesets/TileSet2/TileSet2.yy",},
+    {"name":"ts_mapa","order":6,"path":"tilesets/ts_mapa/ts_mapa.yy",},
+  ],
+}
